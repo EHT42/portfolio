@@ -1,6 +1,7 @@
 # Data Scientist
 
 <h2>👨‍💻 Meine Data Analysis/Data Science Projekte:</h2>
+- [Aktienkurse Vorhersage mit LSTM] (https://github.com/EHT42/LSTM-Aktienkurse)
 
 #### Benutzte Skills/Frameworks: Python, Pandas, Matplotlib, NumPy, SQL, Tensorflow, Machine Learning, Deep Learning
 
