@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Meine Data Analysis/Data Science Projekte:</h2>
 
-#### Skills: Python, SQL, Machine Learning, Deep Learning
+#### Benutzte Skills/Frameworks: Python, Pandas, Matplotlib, NumPy, SQL, Tensorflow, Machine Learning, Deep Learning
 
 ## Ausbildung/Weiterbildung
 - Weiterbildung in Data Science bei WBS Training (_Juni 2024 - September 2024_)								       		
