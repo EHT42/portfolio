@@ -1,6 +1,6 @@
 ## Lebenslauf und Portfolio
 
-# 👨‍💻 Meine Data Analysis/Data Science Projekte:</h2>
+# 👨‍💻 Meine Data Analysis/Data Science Projekte:
 - [Object Detection mit YOLO](https://github.com/EHT42/Object-Detection_Football-Analysis)
 - [Aktienkurs Vorhersage mit LSTM](https://github.com/EHT42/LSTM-Aktienkurse)
 - [SPAM-Filter mit Naive-Bayes](https://github.com/EHT42/Naive_Bayes_Spamfilter)
