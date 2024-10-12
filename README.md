@@ -9,12 +9,12 @@
 
 #### Benutzte Skills/Frameworks: Python, Pandas, Matplotlib, NumPy, SQL, Tensorflow, sci-kit, Seaborn, Open-CV
 
-## Ausbildung/Weiterbildung
+## 🎓 Ausbildung/Weiterbildung
 - Weiterbildung in Data Science bei WBS Training (_Juni 2024 - September 2024_)								       		
 - Ausbildung zum Fachinformatiker für Systemintegration beim taylorix Institut (_März 2018 - Februar 2020_)	 			        		
 - Staatlich geprüfter Assistent für Handel und E-Commerce bei BBS Landstuhl (_September 2009 - Juni 2012_)
 
-## Berufliche Erfahrung
+## 💼 Berufliche Erfahrung
 **IT-Administrator beim Nardini Klinikum Landstuhl (_Januar 2024 - Februar 2024_)**
 - Server-Administration
 - Unterstützung im 2nd-Level-Support
