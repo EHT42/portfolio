@@ -1,7 +1,10 @@
 # Data Scientist
 
 <h2>👨‍💻 Meine Data Analysis/Data Science Projekte:</h2>
-- [Aktienkurse Vorhersage mit LSTM](https://github.com/EHT42/LSTM-Aktienkurse)
+[Object Detection mit YOLO](https://github.com/EHT42/Object-Detection_Football-Analysis)
+[Aktienkurs Vorhersage mit LSTM](https://github.com/EHT42/LSTM-Aktienkurse)
+[SPAM-Filter mit Naive-Bayes](https://github.com/EHT42/Naive_Bayes_Spamfilter)
+[Decease Prediction mit Logistischer Regression](https://github.com/EHT42/Log_Regression_Decease_Prediction)
 
 #### Benutzte Skills/Frameworks: Python, Pandas, Matplotlib, NumPy, SQL, Tensorflow, Machine Learning, Deep Learning
 
