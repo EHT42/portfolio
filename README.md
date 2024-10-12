@@ -6,7 +6,7 @@
 - [SPAM-Filter mit Naive-Bayes](https://github.com/EHT42/Naive_Bayes_Spamfilter)
 - [Decease Prediction mit Logistischer Regression](https://github.com/EHT42/Log_Regression_Decease_Prediction)
 
-#### Benutzte Skills/Frameworks: Python, Pandas, Matplotlib, NumPy, SQL, Tensorflow, Machine Learning, Deep Learning
+#### Benutzte Skills/Frameworks: Python, Pandas, Matplotlib, NumPy, SQL, Tensorflow, sci-kit, Seaborn
 
 ## Ausbildung/Weiterbildung
 - Weiterbildung in Data Science bei WBS Training (_Juni 2024 - September 2024_)								       		
