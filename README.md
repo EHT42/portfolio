@@ -5,6 +5,7 @@
 - [Aktienkurs Vorhersage mit LSTM](https://github.com/EHT42/LSTM-Aktienkurse)
 - [SPAM-Filter mit Naive-Bayes](https://github.com/EHT42/Naive_Bayes_Spamfilter)
 - [Decease Prediction mit Logistischer Regression](https://github.com/EHT42/Log_Regression_Decease_Prediction)
+- [Basic-Analysis Bundesliga Spieler](https://github.com/EHT42/Bundesliga_Spieler_Analysis_Basic)
 
 #### Benutzte Skills/Frameworks: Python, Pandas, Matplotlib, NumPy, SQL, Tensorflow, sci-kit, Seaborn, Open-CV
 
