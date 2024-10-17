@@ -9,13 +9,13 @@ Objektverfolgung und Tracking von Fußballspielern mit YOLO, einem vortrainierte
 In diesem Projekt wird ein LSTM-Modell verwendet, um Aktienkurse basierend auf historischen Daten vorherzusagen und Trends zu erkennen.
 
 ### [SPAM-Filter mit Naive-Bayes](https://github.com/EHT42/Naive_Bayes_Spamfilter)
-Implementierung eines Naive-Bayes-Klassifikators, um Spam-Nachrichten von legitimen E-Mails zu unterscheiden und unerwünschte Nachrichten zu filtern.
+Implementierung eines Naive-Bayes-Klassifikators, um Spam-Nachrichten von legitimen E-Mails zu unterscheiden und zu filtern.
 
 ### [Decease Prediction mit Logistischer Regression](https://github.com/EHT42/Log_Regression_Decease_Prediction)
-Dieses Projekt verwendet Logistische Regression, um vorherzusagen, ob eine Person basierend auf klinischen Daten an einer bestimmten Krankheit erkranken könnte.
+Dieses Projekt verwendet Logistische Regression, um vorherzusagen, ob eine Person basierend auf klinischen Daten erkranken könnte.
 
 ### [Basic-Analysis Bundesliga Spieler](https://github.com/EHT42/Bundesliga_Spieler_Analysis_Basic)
-Analyse von Bundesliga-Spielern mithilfe grundlegender statistischer Methoden in Pandas, um verschiedene Parameter wie den größten Spieler oder die häufigste Rückennummer zu ermitteln.
+Analyse von Bundesliga-Spielern mithilfe grundlegender Methoden in Pandas, um verschiedene Parameter wie den größten Spieler oder die häufigste Rückennummer zu ermitteln und zu visualisieren.
 
 #### Benutzte Skills/Frameworks: Python, Pandas, Matplotlib, NumPy, SQL, Tensorflow, sci-kit, Seaborn, Open-CV
 
