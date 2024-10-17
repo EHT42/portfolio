@@ -1,6 +1,6 @@
 # Lebenslauf und Portfolio
 
-## 👨‍💻 Meine Data Analysis/Data Science Projekte:
+## 👨‍💻 Meine Python/Data Science Projekte:
 
 ### [Object Detection mit YOLO](https://github.com/EHT42/Object-Detection_Football-Analysis)
 Objektverfolgung und Tracking von Fußballspielern mit YOLO, einem vortrainierten Convolutional Neural Network, um z. B. Ballbesitzwerte zu ermitteln.
