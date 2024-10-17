@@ -2,10 +2,15 @@
 
 ## 👨‍💻 Meine Data Analysis/Data Science Projekte:
 - [Object Detection mit YOLO](https://github.com/EHT42/Object-Detection_Football-Analysis)
+  - Objektverfolgung/Tracking von Fussballspielern mit YOLO, einem vortrainierten Convolutional Neural Network, um bspw. Ballbesitzwert zu ermitteln.
 - [Aktienkurs Vorhersage mit LSTM](https://github.com/EHT42/LSTM-Aktienkurse)
+  - um Aktienkurse basierend auf historischen Daten vorherzusagen und Trends zu erkennen.
 - [SPAM-Filter mit Naive-Bayes](https://github.com/EHT42/Naive_Bayes_Spamfilter)
+  - Hier wird ein Naive-Bayes-Klassifikator implementiert, um Spam-Nachrichten von legitimen E-Mails zu unterscheiden und den Eingang von unerwünschten Nachrichten zu reduzieren.
 - [Decease Prediction mit Logistischer Regression](https://github.com/EHT42/Log_Regression_Decease_Prediction)
+  - Dieses Projekt nutzt die Logistische Regression, um vorherzusagen, ob eine Person erkranken könnte, basierend auf klinischen Daten.
 - [Basic-Analysis Bundesliga Spieler](https://github.com/EHT42/Bundesliga_Spieler_Analysis_Basic)
+  - In dieser Analyse werden grundlegende statistische Methoden mit Pandas verwendet, um verschiedene Parameter zu ermitteln (größter Spieler, meiste Rückennr., etc.)
 
 #### Benutzte Skills/Frameworks: Python, Pandas, Matplotlib, NumPy, SQL, Tensorflow, sci-kit, Seaborn, Open-CV
 
