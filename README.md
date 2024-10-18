@@ -5,6 +5,9 @@
 ### [Object Detection mit YOLO](https://github.com/EHT42/Object-Detection_Football-Analysis)
 Objektverfolgung und Tracking von Fußballspielern mit YOLO, einem vortrainierten Convolutional Neural Network, um z. B. Ballbesitzwerte zu ermitteln.
 
+### [Kreditkartenbetrugserkennung mit GAN](https://github.com/EHT42/Fraud_Detection_with_GANs/tree/master)
+Entwicklung eines Generative Adversarial Networks (GAN) zur Erkennung von betrügerischen Kreditkartentransaktionen, indem synthetische Daten mit echten Transaktionen verglichen werden.
+
 ### [Aktienkurs Vorhersage mit LSTM](https://github.com/EHT42/LSTM-Aktienkurse)
 In diesem Projekt wird ein LSTM-Modell verwendet, um Aktienkurse basierend auf historischen Daten vorherzusagen und Trends zu erkennen.
 
